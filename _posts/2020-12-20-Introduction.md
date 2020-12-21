@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Introduction
 
@@ -11,6 +11,3 @@ The purpose of this project is to examine accessibility and choice of amenities 
 * Does the choice of amenities vary by neighborhood?
 * How does accessibility differ when driving vs. walking to amenities in each neighborhood?
 * How does choice differ when driving vs. walking to amenities in each neighborhood?
-
-
-

@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Driving distance to amenities
+## Walking distance to amenities
 
 The maps below are visualizations of walking distances to the nearest amenities in the North Planning District, measured in meters.
 

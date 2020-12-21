@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
@@ -20,8 +20,8 @@ title: "MUSA 550 Final Projet:"
 title_separator: "-"
 name: "Camille Boggan and Gill Tiley"
 description: "Displaying cool data visualizations"
-url: "https://penngirlswhocode.github.io"
-baseurl: "/final"
+url: "https://boggancm.github.io"
+baseurl: "/camille-gill-final"
 repository: "boggancm/camille-gill-final"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
